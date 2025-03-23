@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VishnuFlzh
-- 👀 I’m interested in  prgramming ,fullstack
+- 👋 Hi, I’m @Vishnu Sunil Kumar
+- 👀 I’m interested in  UI/UX Designing
 - 🌱 I’m currently learning ...
-- 📫 How to reach me ... email: vishnuman47@gmail.com
+- 📫 How to reach me ... email: vishnusunilkumar77@@gmail.com
 - 
 
 <!---
