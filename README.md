@@ -30,6 +30,7 @@ email: vishnusunilkumar77@gmail.com
 
 Phone No : +91 7907876894
 
+LinkedIn : ![LinkedIn](https://www.linkedin.com/in/vishnu-sunil-kumar-7a4084282/)
 
 
 
