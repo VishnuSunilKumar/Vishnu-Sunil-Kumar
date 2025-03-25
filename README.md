@@ -26,7 +26,7 @@ Figma 💻, Framer 📱 , HTML 🟡 , CSS 🔵, C programming 🔴 , React ⚛�
 
 ## 📫 How to reach me ...
 
-email: vishnusunilkumar77@gmail.com
+Email: vishnusunilkumar77@gmail.com
 
 Phone No : +91 7907876894
 
