@@ -34,5 +34,5 @@ LinkedIn : https://www.linkedin.com/in/vishnu-sunil-kumar-7a4084282/
 
 
 
-![App Screenshot](https://github.com/user-attachments/assets/f66b4fc0-8a9a-4ee5-bf4a-2bcaf0f1dcd6)
+![App Screenshot](https://github.com/user-attachments/assets/a3c02dad-5152-4828-991a-ac893a697162)
 
