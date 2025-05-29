@@ -2,7 +2,7 @@
 
 A passionate UI/UX designer 🎨 and web developer 💻 with a knack for creating intuitive and efficient digital solutions. 🚀
 
-🎓 Currently a 3rd-year BTech student in Computer Science & Engineering at Saintgits College of Engineering, Kottayam, Kerala.
+🎓 Currently a BTech student in Computer Science & Engineering at Saintgits College of Engineering, Kottayam, Kerala.
 
 ## ⚡ Tech Stack: 
 
