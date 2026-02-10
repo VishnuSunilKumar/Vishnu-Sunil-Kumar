@@ -1,12 +1,12 @@
 ## 👋 Hi, I'm Vishnu Sunil Kumar ! 
 
-A passionate UI/UX designer 🎨 and web developer 💻 with a knack for creating intuitive and efficient digital solutions. 🚀
+A passionate Fullstack developer ,AI agent developer & UI/UX designer 🎨  with a knack for creating intuitive and efficient digital solutions. 🚀
 
 🎓 Currently a BTech student in Computer Science & Engineering at Saintgits College of Engineering, Kottayam, Kerala.
 
 ## ⚡ Tech Stack: 
 
-Figma 💻, Framer 📱 , HTML 🟡 , CSS 🔵, C programming 🔴 , React ⚛️, Node.js 🟢, Express, MongoDB 🍃, Firebase 🔥, Flutter 📱, —always eager to explore and learn new technologies!
+Figma 💻, Framer 📱 , Python , HTML 🟡 , CSS 🔵, C programming 🔴 , React ⚛️, Node.js 🟢, Express, MongoDB 🍃, Firebase 🔥, Flutter 📱, —always eager to explore and learn new technologies!
 
 ## 🛠️ Projects:
 
